@@ -1,3 +1,4 @@
-function nazo() {if (document.getElementById('answer2').value = 'ソフトボール')
- {alert('あたり！');} 
-else {alert('はずれ！');}}
+var who65 ='world';function sayhello65() {alert('Hello, '+"text"+'!')}
+function huseikai() {alert('ざんねん…');}
+function seikai() {alert('せいかい！');}
+
